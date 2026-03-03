@@ -1,0 +1,5 @@
+{
+  "name": "SynthoPod",
+  "description": "A synthetic podcast app with an AI chatbot interface that generates and plays podcasts based on your prompts.",
+  "requestFramePermissions": ["microphone"]
+}
